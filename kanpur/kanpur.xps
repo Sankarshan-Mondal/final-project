@@ -1,0 +1,96 @@
+H000SPS format version num.     SPS001,07.17.21;                                
+H010Description of survey area  <untitled>,,N/A,N/A;                            
+H020Date of survey              07.17.21,07.17.21;                              
+H021Post-plot date of issue     07.17.21;                                       
+H022Tape/disk identifier        N/A;                                            
+H030Client                      N/A;                                            
+H040Geophysical contractor      N/A,N/A;                                        
+H050Positioning contractor      N/A;                                            
+H060Pos. proc. contractor       N/A;                                            
+H070Field computer system(s)    N/A,N/A,N/A;                                    
+H080Coordinate location         N/A;                                            
+H090Offset to coord. location   N/A,N/A;                                        
+H100Clock time w.r.t. GMT       N/A;                                            
+H110Spare                       N/A;                                            
+H120Geodetic datum,-spheroid    N/A,N/A,N/A,N/A;                                
+H130Spare                       N/A;                                            
+H140Geodetic datum parameters   N/A,N/A,N/A,N/A,N/A,N/A,N/A;                    
+H150Spare                       N/A;                                            
+H160Spare                       N/A;                                            
+H170Vertical datum description  N/A,N/A,N/A,N/A;                                
+H180Projection type             N/A;                                            
+H190Projection zone             N/A,N/A;                                        
+H200Description of grid units   American Feet;                                  
+H201Factor to metre             0.30480061;                                     
+H210Lat. of standard parallel(s);                                               
+H220Long. of central meridian   ;                                               
+H231Grid origin                 ;                                               
+H232Grid coord. at origin       ;                                               
+H241Scale factor                ;                                               
+H242Lat., long. scale factor    ;                                               
+H256Lat., long. initial line    ;                                               
+H257Circular bearing of H256    ;                                               
+H258Quadrant bearing of H256    ;                                               
+H259Angle from skew             ;                                               
+H300Project code and description;                                               
+H310Line number format          ;                                               
+H400Type,Model,Polarity         ;                                               
+H401Crew name,Comment           ;                                               
+H402Sample int.,Record Len.     1,0.000000,N/A;                                 
+H403Number of channels          1,1;                                            
+H404Tape type,format,density    ;                                               
+H405Filter_alias Hz,dB pnt,slope;                                               
+H406Filter_notch Hz,-3dB points ;                                               
+H407Filter_low Hz,dB pnt,slope  ;                                               
+H408Time delay FTB-SOD app Y/N  ;                                               
+H409Multi component recording   ;                                               
+H410Aux. channel 1 contents     ;                                               
+H411Aux. channel 2 contents     ;                                               
+H412Aux. channel 3 contents     ;                                               
+H413Aux. channel 4 contents     ;                                               
+H414Spare                       ;                                               
+H415Spare                       ;                                               
+H416Spare                       ;                                               
+H417Spare                       ;                                               
+H418Spare                       ;                                               
+H419Spare                       ;                                               
+H600Type,model,polarity         G1,geophone 1;                                  
+H601Damp coeff,natural freq.    ;                                               
+H602Nunits,len(X),width(Y)      ;                                               
+H603Unit spacing X,Y            ;                                               
+H604Spare                       ;                                               
+H605Spare                       ;                                               
+H606Spare                       ;                                               
+H607Spare                       ;                                               
+H608Spare                       ;                                               
+H609Spare                       ;                                               
+H700Type,model,polarity         E1,explosive 1;                                 
+H701Size,vert. stk fold         ;                                               
+H702Nunits,len(X),width(Y)      ;                                               
+H703Unit spacing X,Y            ;                                               
+H711Nom. shot depth,charge len. ;                                               
+H712Nom. soil,drill method      ;                                               
+H713Weathering thickness        ;                                               
+H714Spare                       ;                                               
+H715Spare                       ;                                               
+ X0         0111                   410011     30   17011                     2030      21701
+ X0         0111                   410021     30   17011                     2031      21711
+ X0         0111                   410031     30   17011                     2032      21721
+ X0         0111                   410041     30   17011                     2033      21731
+ X0         0111                   410051     30   17011                     2034      21741
+ X0         0111                   410061     30   17011                     2035      21751
+ X0         0111                   410071     30   17011                     2036      21761
+ X0         0111                   410081     30   17011                     2037      21771
+ X0         0111                   410091     30   17011                     2038      21781
+ X0         0111                   410101     30   17011                     2039      21791
+ X0         0111                   410111     30   17011                     2040      21801
+ X0         0111                   410121     30   17011                     2041      21811
+ X0         0111                   410131     30   17011                     2042      21821
+ X0         0111                   410141     30   17011                     2043      21831
+ X0         0111                   410151     30   17011                     2044      21841
+ X0         0111                   410161     30   17011                     2045      21851
+ X0         0111                   410171     30   17011                     2046      21861
+ X0         0111                   410181     30   17011                     2047      21871
+ X0         0111                   410191     30   17011                     2048      21881
+ X0         0111                   410201     30   17011                     2049      21891
+ X0         0111                   410211     30   17011                     2050      21901
